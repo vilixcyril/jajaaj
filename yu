@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Recursos Online</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #ecf2f9;
+      text-align: center;
+      margin-top: 100px;
+    }
+    h1 {
+      color: #233c62;
+    }
+    .links {
+      margin-top: 40px;
+    }
+    .btn {
+      display: inline-block;
+      padding: 15px 30px;
+      margin: 12px;
+      border: none;
+      border-radius: 6px;
+      background-color: #233c62;
+      color: #fff;
+      font-size: 17px;
+      cursor: pointer;
+      text-decoration: none;
+      box-shadow: 0 2px 8px rgba(60,60,100,0.08);
+      transition: background 0.2s;
+    }
+    .btn:hover {
+      background: #315285;
+    }
+  </style>
+</head>
+<body>
+  <h1>Recursos Online</h1>
+  <div class="links">
+    <a class="btn" href="https://instagram.com/TU_PERFIL" target="_blank">Material 1</a>
+    <a class="btn" href="https://snapchat.com/add/TU_PERFIL" target="_blank">Material 2</a>
+    <a class="btn" href="https://facebook.com/TU_PERFIL" target="_blank">Material 3</a>
+  </div>
+  <p style="color:#444;margin-top:45px;">Herramientas para ampliar tu aprendizaje.</p>
+</body>
+</html>
